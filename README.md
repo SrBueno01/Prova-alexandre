@@ -53,3 +53,15 @@ docker compose down --remove-orphans
 Remover também o volume (⚠️ apaga dados):
 
 docker compose down -v
+
+
+
+
+
+
+<img width="1526" height="877" alt="Rodando em segundo plano" src="https://github.com/user-attachments/assets/eaebca62-2cd2-48f8-8790-629331341b09" />
+
+<img width="1597" height="921" alt="logs rodando" src="https://github.com/user-attachments/assets/d15dc488-172a-418d-b046-f66b3060812b" />
+
+
+
